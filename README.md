@@ -23,10 +23,12 @@ The project will use the C-MAPSS (Commercial Modular Aero-Propulsion System Simu
 Data Preparation
 - Preprocess the C-MAPSS sensor data by removing constant or uninformative sensors, normalizing the selected measurements, and computing piecewise-linear RUL targets.
 - Split the engines by unit number into training and validation sets to prevent data leakage between cycles from the same engine.
+
 Models 
 - XGBoost as the tuned gradient-boosting benchmark (with hyperparameter tuning)
 - LSTM as the baseline deep learning model using sliding-window sensor inputs.
 - Autoformer as an advanced Transformer-based model for capturing long-term degradation patterns.
+
 Evaluation Metrics
 - NASA C-MAPSS scoring function (asymmetric penalty, weighted more heavily against late predictions) on the official test split.
 - RMSE and MAE for interpretability.
