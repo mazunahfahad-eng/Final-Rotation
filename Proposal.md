@@ -42,14 +42,14 @@ By the end of this project, we expect to deliver a predictive maintenance protot
 ٍ
 ## References
 [1] R. Lin, Y. Yu, H. Wang, C. Che, and X. Ni, “Remaining useful life prediction in prognostics using multi-scale sequence and Long Short-Term Memory network⋆,” Journal of Computational Science, vol. 57, p. 101508, Jan. 2022.
+
 [2] H. Tian, L. Yang, and B. Ju, “Spatial Correlation and Temporal Attention-Based LSTM for Remaining Useful Life Prediction of Turbofan Engine,” Measurement, vol. 214, Art. 112816, 2023.
+
 [3] H. Wu, J. Xu, J. Wang, and M. Long, “Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting,” arXiv (Cornell University), Dec. 2021
-[4] “Final-Rotation,” GitHub repository, 2026. 
 
+[4] A. Gupta, “Auditing Operating-Condition Normalization in C-MAPSS Remaining Useful Life Evaluation.” Open Engineering Inc, Sep. 04, 2026.
 
-[5] A. Gupta, “Auditing Operating-Condition Normalization in C-MAPSS Remaining Useful Life Evaluation.” Open Engineering Inc, Sep. 04, 2026.
+[5] S. Deng and J. Zhou, “Prediction of Remaining Useful Life of Aero-Engines Based on CNN-LSTM-Attention,” International Journal of Computational Intelligence Systems, vol. 17, Art. 232, 2024.
 
-[6] S. Deng and J. Zhou, “Prediction of Remaining Useful Life of Aero-Engines Based on CNN-LSTM-Attention,” International Journal of Computational Intelligence Systems, vol. 17, Art. 232, 2024.
-
-[7] A. Saxena, K. Goebel, D. Simon and N. Eklund, "Damage propagation modeling for aircraft engine run-to-failure simulation," 2008 International Conference on Prognostics and Health Management, Denver, CO, USA, 2008.
+[6] A. Saxena, K. Goebel, D. Simon and N. Eklund, "Damage propagation modeling for aircraft engine run-to-failure simulation," 2008 International Conference on Prognostics and Health Management, Denver, CO, USA, 2008.
 
